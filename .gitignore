@@ -1,0 +1,39 @@
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets et clés API
+.streamlit/secrets.toml
+.env
+.env.local
+.env.*.local
+
+# Index FAISS (régénérable)
+faiss_index/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Cache IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+.streamlit/
