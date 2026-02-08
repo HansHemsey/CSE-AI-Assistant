@@ -94,6 +94,19 @@ Posez vos questions concernant :
 
 L'assistant refusera de répondre aux questions hors de ce périmètre.
 
+## ⚠️ Disclaimer - IMPORTANT
+
+**CET OUTIL N'EST PAS UNE SOURCE OFFICIELLE**
+
+- Cet assistant est un **outil d'aide informative UNIQUEMENT**
+- Les réponses peuvent contenir des **erreurs ou imprécisions**
+- **JAMAIS faire confiance aveuglément** aux indications fournies
+- Pour les **décisions juridiques critiques**, consulter un **vrai expert juridique ou RH**
+- Les utilisateurs sont **entièrement responsables** de vérifier les informations avant de les appliquer
+- En cas de doute, toujours se référer au **Code du Travail officiel** ou à un conseil juridique
+
+**Cet outil est fourni "tel quel" sans garantie.**
+
 ## 🛠️ Technologies
 
 - **Streamlit** : Interface web
@@ -105,12 +118,14 @@ L'assistant refusera de répondre aux questions hors de ce périmètre.
 
 ## 📝 License
 
-[À définir selon vos préférences]
+MIT License - Voir le fichier LICENSE pour les détails complets.
 
 ## ✍️ Auteur
 
-[Votre nom/Votre organisation]
+Yanis RUEL // Business Data Analyst @ Schmidt Groupe
 
 ---
 
 **Développé avec ❤️ pour l'excellence du CSE**
+
+**⚠️ Rappel final** : Ce projet est un outil d'assistance. Chaque utilisateur est responsable de la vérification des informations critiques auprès de sources officielles.
