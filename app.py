@@ -188,8 +188,9 @@ col1, col2 = st.columns([1, 5])
 with col1:
     st.image("https://cdn-icons-png.flaticon.com/512/4712/4712035.png", width=80) # Icone placeholder style IA
 with col2:
-    st.title("CSE // EXECUTIVE AI")
-    st.caption(f"Système connecté : {MODEL_NAME.upper()} | Base de connaissance : ACTIVE")
+    st.title("CSE / ASSISTANT AI")
+    st.caption(f"Bienvenue dans votre assistant stratégique spécialisé pour le Comité Social et Économique. Posez vos questions sur le droit du travail, les missions du CSE.")
+    st.caption("L'IA s'appuie sur une base de connaissances alimentée par Legifrance et la recherche en temps réel sur internet pour vous fournir des réponses précises et contextualisées.")
 
 # Affichage Historique
 for message in st.session_state.messages:
